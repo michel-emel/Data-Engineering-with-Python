@@ -1,5 +1,4 @@
 
-```markdown
 # ETL Project: Extracting and Transforming GDP Data
 ## Overview
 This project is an ETL pipeline designed to extract GDP data from a Wikipedia page, transform it into a usable format, and load it into both a CSV file and an SQLite database. The project logs each stage of the process, ensuring traceability and easy debugging.
