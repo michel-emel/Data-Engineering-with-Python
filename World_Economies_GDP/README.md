@@ -45,5 +45,5 @@ SELECT * FROM Countries_by_GDP WHERE GDP_USD_billions >= 100;
 The script logs all stages of the ETL process in `etl_project_log.txt`, allowing for easy monitoring and debugging.
 
 ## Contact
-For any questions or issues, please feel free to contact [(lechiffremel@gmail.com](lechiffremel@gmail.com).
+For any questions or issues, please feel free to contact [(lechiffremel@gmail.com)](lechiffremel@gmail.com).
 ```
