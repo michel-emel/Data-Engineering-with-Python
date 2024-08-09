@@ -1,5 +1,4 @@
 
-```markdown
 # ETL Project: Extracting and Transforming GDP Data
 ## Overview
 This project is an ETL pipeline designed to extract GDP data from a Wikipedia page, transform it into a usable format, and load it into both a CSV file and an SQLite database. The project logs each stage of the process, ensuring traceability and easy debugging.
@@ -44,8 +43,7 @@ SELECT * FROM Countries_by_GDP WHERE GDP_USD_billions >= 100;
 ```
 ## Logs
 The script logs all stages of the ETL process in `etl_project_log.txt`, allowing for easy monitoring and debugging.
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 ## Contact
-For any questions or issues, please feel free to contact [Michel Boris](lechiffremel@gmail.com).
+For any questions or issues, please feel free to contact [(lechiffremel@gmail.com)](lechiffremel@gmail.com).
 ```
