@@ -1,5 +1,3 @@
-Here's a README file for your project:
-
 ---
 
 # World's Largest Banks Data ETL Project
@@ -99,10 +97,6 @@ Several SQL queries are executed on the SQLite database to analyze the data:
 ## Logs
 
 The ETL process logs its progress in a file named `etl_project_log.txt`. The logs include timestamps and messages indicating the steps completed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
