@@ -1,0 +1,2 @@
+2024-08-09 19:06:54 : SQL Connection initiated.
+2024-08-09 19:06:54 : Data successfully loaded into the table Largest_banks in the SQLite database.
